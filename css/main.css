@@ -1,0 +1,50 @@
+body {
+    margin: 5em 20%;
+    text-align: center;
+}
+
+img {
+    height: 45%;
+    width: 45%;
+}
+
+h1, button, p, li, input {
+    font-family: 'helvetica', sans-serif;
+}
+
+h1 {
+    color: #AAABD3;
+}
+
+input {
+    border: none;
+    padding: 0.5em;
+    background-color: #F8FAFF;
+    margin-top: 3em;
+    color: #353866;
+    font-weight: 700;
+}
+
+button {
+    border: none;
+    background-color: #AAA8D3;
+    color: white;
+    padding: 0.5em;
+}
+
+p {
+    font-size: 1em;
+    color: #AAABD3;
+    font-weight: 700;
+}
+
+ul li {
+    overflow: hidden;
+    color: #353866;
+    font-weight: 700;
+    font-size: 1em;
+}
+
+.list {
+    margin-top: 4em;
+}
